@@ -1,0 +1,33 @@
+.invisible{
+	display:none !important;
+}
+
+.marginBottom20{
+	margin-bottom: 20px;
+}
+
+.floatLeft{
+	float:left;
+}
+
+ body > .grid {
+  height: 100%;
+}
+.image {
+  margin-top: -100px;
+}
+.column {
+  max-width: 450px;
+}
+
+#buttonInsc{
+	margin-bottom: 5px;
+	margin-top: 5px;
+	float : right;
+}
+
+#inscriAlert{
+	margin-bottom: 5px;
+	margin-top: 8px;
+	height : 30px;
+}

@@ -1,0 +1,22 @@
+.invisible{
+	display:none;
+}
+
+img{
+	height:100% !important;
+}
+
+.imgProfil{
+	height: 300px;
+}
+
+.marginRight5{
+	margin-right:5px;
+}
+#enregistrer{
+	margin-top:10px;
+}
+
+#errorMail{
+	color:red;
+}

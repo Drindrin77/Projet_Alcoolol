@@ -1,0 +1,139 @@
+#colonneGauche {
+	background-color: #99c2ff;
+	padding-bottom: 20px;
+	height: 770px !important;
+
+}
+
+#headerColonneGauche {
+	background-color: #66a3ff;
+	width: 100%;
+}
+#errorReponse{
+	color:red;
+}
+.msgListe:hover{
+	background-color: grey !important;
+	cursor: pointer;
+}
+#headerMsgRecu{
+	background-color: #66a3ff;
+}
+
+.imgListe{
+	height:80px !important;
+}
+
+img{
+	height:100%;
+}
+
+#ouvrirPopUpFlush{
+	margin-bottom: 20px
+}
+
+.clickedMess{
+	background-color :#66a3ff !important;
+}
+.dateReponse{
+	color:black;
+	font-size: 12px;
+	margin-bottom:5px;
+}
+.avatarReponse{
+	height:70px;
+}
+
+.actionMessage{
+	cursor: pointer;
+}
+
+.listMsg{
+	max-height: 600px !important;
+    overflow-y: auto !important;
+}
+
+#listReponse{
+	max-height: 600px !important;
+    overflow-y: auto !important;	
+}
+
+.invisible{
+	display:none !important;
+}
+
+.floatLeft{
+	float:left;
+}
+.paddingBottom20{
+	padding-bottom: 20px;
+}
+.floatRight{
+	float:right;
+}
+.img.floatLeft{
+	height:50px;
+}
+
+.enGras {
+	font-weight: bold;
+}
+
+#titreGauche {
+	margin-bottom: 25px;
+}
+
+#itemsGauche {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#aucunMessage{
+	text-align: center;
+	height:50px;
+	margin-top:50%;
+}
+
+.pasLu{
+	background-color: #d9d9d9 !important;	
+}
+
+#gridPageMessage{
+	height: 100%;
+}
+
+#segmentDroiteAucun{
+	height: 100%;
+	background-color: #d9d9d9;
+}
+
+#segmentDroiteMessage{
+	height: 100%;
+	background-color: white;	
+}
+
+#messageDestinataire {
+	float: left;
+}
+
+#boutonEnvoye {
+	float: right; 
+	margin: 10px;
+}
+
+#imgProfil{
+	height:250px;
+	width:230px;
+}
+
+.marginBottom20{
+	margin-bottom: 20px
+}
+
+.marginLeft10{
+	margin-left: 10px
+}
+
+#spanErreur{
+	color:red;
+}

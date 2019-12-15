@@ -1,0 +1,36 @@
+.imgEvent{
+	height:250px !important;
+}
+
+img{
+	height:100% !important;
+}
+
+#column1{
+	border-right:1px solid black;
+}
+
+.tab{
+	padding:20px;
+}
+
+.card{
+	font-size: 15px !important;
+}
+
+textarea{
+	width:100%;
+	height:150px;
+}
+
+.refus{
+	color:red;
+}
+
+.accept{
+	color:green;
+}
+
+.supprimerAnnonce{
+	float:right;
+}

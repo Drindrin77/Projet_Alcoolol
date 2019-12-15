@@ -1,0 +1,145 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#avatarAuteur{
+	max-height:100px !important;
+	max-width:100px !important;
+	margin-left:20px;
+}
+
+img {
+	height: 100% !important;
+	width: 100% !important; 
+}
+
+#resultatUploadBoisson{
+	color: red;
+}
+
+.reply{
+	color: blue;
+}
+
+.reply:hover{
+	cursor: pointer;
+	color:black;
+}
+
+.imgDiv{
+	height: 400px !important;
+	width: 300px !important;
+}
+
+.avatarCommentaire{
+	margin:0px !important;
+	height:50px !important;
+}
+
+.invisible{
+	display:none !important;
+}
+
+#legiPermis{
+	float: right;
+}
+
+#recetteCreation{
+	height:200px;
+}
+
+#checkboxCreation{
+	margin-right:20px;
+}
+
+#titleIngr{
+	width:170px;
+	margin:auto;
+}
+
+.contenuCacheCreation{
+	margin-top: 50px;
+}
+
+#divAvatarBoisson{
+	width:300px;
+	margin:auto
+}
+
+#recapGrid{
+	border:2px solid black; 
+	border-radius:10px; 
+	padding:20px;
+}
+
+#recapTitre{
+	margin:auto;
+}
+
+#checkBoxFinal{
+	margin-right:20px;
+}
+
+#titreRecapAuteur{
+	margin-bottom:20px;
+	background-color:#e6e6e6;
+}
+
+#etapes{
+	margin-top:50px;
+}
+
+#creerBouton{
+	margin-top:20px; 
+}
+
+.precedent{
+	float:left;
+}
+
+.suivant{
+	float:right
+}
+
+#tr{
+	background-color: #dddddd;
+}
+
+#resultat{
+	 font-size: 25px;
+	 text-align: center;
+	 margin-top: 16%;
+}
+
+#boutonCalculer{
+	float:right;
+}
+
+#idSexe{
+	width: 60%;
+}
+
+#cardAlcoolemie{
+	margin-top: 20px;
+}
+
+#afficherBoissonCheck{
+	margin-right:20px;
+}
+
+#afficherBoissonHeader{
+	margin-bottom:20px; 
+	background-color:#e6e6e6;
+}
+
+.commentaireDiv{
+	margin-bottom:20px;
+	background-color:#e6e6e6;
+}

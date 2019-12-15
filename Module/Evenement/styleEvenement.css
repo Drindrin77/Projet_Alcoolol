@@ -1,0 +1,37 @@
+img{
+	height:100% !important;
+}
+
+.imgEvent{
+	height:200px !important;
+}
+
+.invisible{
+	display:none !important;
+}
+.marginBottom50{
+	margin-bottom: 50px;
+}
+
+.titreDetail{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.floatRight{
+	float:right;
+}
+
+#formulaire{
+	border:2px solid black;
+	border-radius: 10px;
+	padding:30px;
+}
+
+#buttonCreer{
+	margin-top:100px; 
+}
+
+#boutonAnnulerListe{
+	margin-top: 15px;
+}

@@ -1,0 +1,41 @@
+#gridRechercheAvance{
+	background-color:#ff944d
+}
+
+#titleAjoutIngr{
+	width:170px;
+	margin:auto;
+}
+
+.nbResultat{
+	margin-bottom: 30px;
+}
+
+.imgBoisson{
+	height:400px;
+}
+
+img {
+	height:100% !important;
+}
+
+.diffNoteBoisson{
+	line-height: 25px;
+}
+
+.checkAlcool{
+	margin-right:20px;
+}
+
+.imgUser{
+	height:300px;
+}
+
+.msgUser{
+	resize:none;
+}
+
+.envoyerMessage{
+	padding-right: 50%;
+	float: right;
+}
